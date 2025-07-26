@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o Alejandro Souza
 
-🎯 Focado em me tornar um Engenheiro DevOps
+🎯 Focado em me tornar um Engenheiro DevOps  
 ☕  Sim, eu já estudei Java como minha principal linguagem de programação  
 📚 Estudante de Análise e Desenvolvimento de Sistemas - 4º semestre  
 🐧 Apaixonado por Linux, automação e boas práticas  
-🔧 Explorando ferramentas como Git, Bash, Docker e CI/CD
+🔧 Explorando ferramentas como Git, Bash, Docker e CI/CD  
 
 ---
 
@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/alejandro-s23">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kanashizin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanashizin&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alejandro-s23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-s23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!---
