@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alejandrosouzadossantos/)
 
+---
 
 <div align="center">
   <a href="https://github.com/alejandro-s23">
