@@ -43,7 +43,7 @@ Busco compreender todo o ciclo de vida de uma aplicação — desde o desenvolvi
 ---
 
 ### 🧩 Projetos em andamento
-- **[Gerenciador de Material Java](/SiGMA)** → CRUD simples em Java com JDBC e PostgreSQL  
+- **[Gerenciador de Material Java](https://github.com/alejandro-s23/SiGMa)** → CRUD simples em Java com JDBC e PostgreSQL  
 
 ---
 
