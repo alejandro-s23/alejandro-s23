@@ -57,7 +57,7 @@ Busco compreender todo o ciclo de vida de uma aplicação — desde o desenvolvi
 ---
 
 ### 📫 Onde me encontrar
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">💼 LinkedIn</a>  
+<a href="https://www.linkedin.com/in/alejandro-s-santos/" target="_blank">💼 LinkedIn</a>  
 📧 **alejandrosouza277353@gmail.com**  
 
 ---
