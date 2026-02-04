@@ -11,7 +11,7 @@
 Sou apaixonado por tecnologia e atualmente foco meus estudos em **Desenvolvimento Java** e **práticas DevOps aplicadas à Computação em Nuvem**.  
 Busco compreender todo o ciclo de vida de uma aplicação — desde o desenvolvimento até a automação e o deploy em ambientes escaláveis.
 
-- 🌱 Estudando: **Java Backend**
+- 🌱 Estudando: **Java**
 - 💡 Interesse em: **Cloud Computing**, **Infraestrutura como Código** e **Microserviços**
 - 🐧 Utilizo **Pop!_OS e Ubuntu** como ambientes de desenvolvimento
 - 🎯 Objetivo: atuar como **Desenvolvedor Java com foco em DevOps/Cloud Native**
