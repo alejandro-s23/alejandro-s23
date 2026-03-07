@@ -1,20 +1,18 @@
 <h1 align="center">👋 Olá, eu sou o Alejandro</h1>
 
 <p align="center">
-  💻 <strong>Desenvolvedor Java</strong> | ☁️ <strong>DevOps & Cloud Native</strong><br>
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (Unopar)
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unopar.
+💻 Desenvolvedor em formação com foco em <strong>C# e desenvolvimento backend</strong>.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-Sou apaixonado por tecnologia e atualmente foco meus estudos em **Desenvolvimento Java** e **práticas DevOps aplicadas à Computação em Nuvem**.  
-Busco compreender todo o ciclo de vida de uma aplicação — desde o desenvolvimento até a automação e o deploy em ambientes escaláveis.
+Minha jornada na programação começou com <strong>Java</strong>, onde tive meu primeiro contato mais aprofundado com <strong> Programação Orientada a Objetos</strong>, desenvolvimento de aplicações e boas práticas de desenvolvimento. Atualmente estou direcionando meus estudos para o ecossistema <strong> C# e .NET</strong>, buscando construir uma base sólida para atuar no desenvolvimento de software.
 
-- 🌱 Estudando: **Java 25**
-- 💡 Interesse em: **Cloud Computing**, **Infraestrutura como Código** e **Microserviços**
+- 🌱 Estudando: **C# e .Net**
+- 💡 Interesse em: **Desenvolvimento Backend** e **DevOps**
 - 🐧 Utilizo **Pop!_OS e Ubuntu** como ambientes de desenvolvimento
-- 🎯 Objetivo: atuar como **Desenvolvedor Java com foco em DevOps/Cloud Native**
 
 ---
 
@@ -24,9 +22,8 @@ Busco compreender todo o ciclo de vida de uma aplicação — desde o desenvolvi
 
 | Categoria | Ferramentas |
 |------------|-------------|
-| 💻 Linguagens | Java, JavaScript, Bash |
+| 💻 Linguagens | C#, Java, JavaScript, Bash |
 | ⚙️ DevOps | Git, Linux |
-| ☁️ Cloud | AWS (em aprendizado) |
 | 🗄️ Banco de Dados | PostgreSQL |
 | 🐧 Sistema Operacional | Linux (Pop!_OS e Ubuntu) |
 
@@ -43,7 +40,8 @@ Busco compreender todo o ciclo de vida de uma aplicação — desde o desenvolvi
 ---
 
 ### 🧩 Projetos em andamento
-- **[Gerenciador de Material Java](https://github.com/alejandro-s23/SiGMa)** → CRUD simples em Java com JDBC e PostgreSQL  
+- **[Gerenciador de Material Java](https://github.com/alejandro-s23/SiGMa)** → CRUD simples em Java com JDBC e PostgreSQL
+- **Jogo de Xadrez em Console C#  
 
 ---
 
