@@ -12,7 +12,7 @@ Minha jornada na programação começou com <strong>Java</strong>, onde tive meu
 
 - 🌱 Estudando: **C# e .Net**
 - 💡 Interesse em: **Desenvolvimento Backend** e **DevOps**
-- 🐧 Utilizo **Pop!_OS e Ubuntu** como ambientes de desenvolvimento
+- 🐧 Utilizo **Mac OS X** como ambiente de desenvolvimento
 
 ---
 
@@ -23,9 +23,10 @@ Minha jornada na programação começou com <strong>Java</strong>, onde tive meu
 | Categoria | Ferramentas |
 |------------|-------------|
 | 💻 Linguagens | C#, Java, JavaScript, Bash |
+| 📚 Frameworks | ASP.NET, EntityFramework |
 | ⚙️ DevOps | Git, Linux |
-| 🗄️ Banco de Dados | PostgreSQL |
-| 🐧 Sistema Operacional | Linux (Pop!_OS e Ubuntu) |
+| 🗄️ Banco de Dados | PostgreSQL | SQLServer |
+| 🐧 Sistema Operacional | Mac OS X |
 
 </div>
 
@@ -41,16 +42,7 @@ Minha jornada na programação começou com <strong>Java</strong>, onde tive meu
 
 ### 🧩 Projetos em andamento
 - **[Gerenciador de Material Java](https://github.com/alejandro-s23/SiGMa)** → CRUD simples em Java com JDBC e PostgreSQL
-- **Jogo de Xadrez em Console C#  
-
----
-
-### 📈 Estatísticas GitHub
-<div align="center">
-  <a href="https://github.com/alejandro-s23">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alejandro-s23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-s23&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- **Gerenciador de Biblioteca Autônoma**(Em desenvolvimento) → Sistema Web MVC + SQLServer com ASP.Net e EntityFramework
 
 ---
 
@@ -61,8 +53,3 @@ Minha jornada na programação começou com <strong>Java</strong>, onde tive meu
 ---
 
 ⭐ _“O aprendizado contínuo é o combustível da evolução na tecnologia.”_
-
-<!---
-kanashizin/kanashizin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
