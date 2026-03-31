@@ -25,7 +25,7 @@ Minha jornada na programação começou com <strong>Java</strong>, onde tive meu
 | 💻 Linguagens | C#, Java, JavaScript, Bash |
 | 📚 Frameworks | ASP.NET, EntityFramework |
 | ⚙️ DevOps | Git, Linux |
-| 🗄️ Banco de Dados | PostgreSQL | SQLServer |
+| 🗄️ Banco de Dados | PostgreSQL, SQL Server |
 | 🐧 Sistema Operacional | Mac OS X |
 
 </div>
@@ -42,7 +42,7 @@ Minha jornada na programação começou com <strong>Java</strong>, onde tive meu
 
 ### 🧩 Projetos em andamento
 - **[Gerenciador de Material Java](https://github.com/alejandro-s23/SiGMa)** → CRUD simples em Java com JDBC e PostgreSQL
-- **Gerenciador de Biblioteca Autônoma**(Em desenvolvimento) → Sistema Web MVC + SQLServer com ASP.Net e EntityFramework
+- **Gerenciador de Biblioteca Autônoma** (Em desenvolvimento) → Projeto real Web MVC + SQLServer com ASP.Net e EntityFramework
 
 ---
 
