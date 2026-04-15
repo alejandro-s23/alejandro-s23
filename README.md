@@ -1,8 +1,10 @@
 <h1 align="center">👋 Olá, eu sou o Alejandro</h1>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unopar.
-💻 Desenvolvedor em formação com foco em <strong>C# e desenvolvimento backend</strong>.
+  🎓 Análise e Desenvolvimento de Sistemas (ADS).
+</p>
+<p align="center">
+  💻 Desenvolvedor <strong>Asp.Net e Backend</strong>.
 </p>
 
 ---
