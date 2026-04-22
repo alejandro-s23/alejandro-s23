@@ -37,7 +37,7 @@
 ### 💌 Vamos conversar? ⤵️
 
 <p align="left">
-  <a href="mailto:alejandrosouz277353@gmail.com" title="Gmail">
+  <a href="mailto:alejandrosouza277353@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/alejandro-s-santos" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
