@@ -11,30 +11,30 @@
   Meu objetivo é construir aplicações que não apenas funcionem, mas que sejam <strong>escaláveis, robustas e de manutenção facilitada</strong>. Acredito que um bom código é aquele que respeita as boas práticas de arquitetura e padrões de projeto (SOLID, Clean Code).
 </p>
 
-### 🛠️ O que eu domino:
+### O que eu domino:
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> C# (.NET Core/MVC), SQL (Server/PostgreSQL)..
+  <strong>Linguagens:</strong> C# (.NET Core/MVC), SQL (Server/PostgreSQL)..
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas & Frameworks:</strong> ASP.NET Core, Entity Framework Core, Git/GitHub, Docker (estudando), JetBrains Rider e ambiente macOS.
+  <strong>Ferramentas & Frameworks:</strong> ASP.NET Core, Entity Framework Core, Git/GitHub, Docker (estudando), JetBrains Rider e ambiente macOS.
 </p>
 
 <p align="left">
-  ⚙️ <strong>Habilidades Transversais:</strong> Gestão de dados sensíveis (experiência no SPP), cultura DevOps, resiliência e foco em resolução de problemas sob pressão.
+  <strong>Habilidades Transversais:</strong> Gestão de dados sensíveis (experiência no SPP), cultura DevOps, resiliência e foco em resolução de problemas sob pressão.
 </p>
 
 ---
 
-### 🚀 No radar no momento:
+### No radar no momento:
 - Aprimorando o projeto **Biblioteca Clandestina** (Aplicação MVC completa para automação de acervos).
 - Aprofundando estudos em Microserviços e Mensageria.
 - Criando conteúdos sobre transição de carreira para o LinkedIn.
 
 ---
 
-### 💌 Vamos conversar? ⤵️
+### Vamos conversar? ⤵️
 
 <p align="left">
   <a href="mailto:alejandrosouza277353@gmail.com" title="Gmail">
