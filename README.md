@@ -28,9 +28,8 @@
 ---
 
 ### No radar no momento:
-- Aprimorando o projeto **Biblioteca Clandestina** (Aplicação MVC completa para automação de acervos).
+- Desenvolvendo o projeto **GSuMan** (Aplicação de Gerenciamento e Rateio de Assinaturas em Grupo / Group Subscription Manager).
 - Aprofundando estudos em Microserviços e Mensageria.
-- Criando conteúdos sobre transição de carreira para o LinkedIn.
 
 ---
 
